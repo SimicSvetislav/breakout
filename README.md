@@ -1,6 +1,6 @@
 # Breakout
 
-Simple video game implemented for course Numerical Algorithms and Numerical Software using Java SwingSimple video game implemented for course Numerical Algorithms and Numerical Software using Java Swing during the winter semester in 2017/18 academic year.
+Simple video game implemented for course Numerical Algorithms and Numerical Software using Java Swing during the winter semester in 2017/18 academic year.
 
 # Demo
 
